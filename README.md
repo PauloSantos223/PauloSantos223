@@ -4,8 +4,8 @@
 
 "It does not matter how slowly you go as long as you don't stop." - Confucius 
 
-- 🔭 I’m currently working on my first website
-- 🌱 I’m currently learning Computer Science Engineering
+- 🔭 I’m currently working on making a game with unity.
+- 🌱 I’m currently learning IDMX.
 - 👯 I’m looking to collaborate on different github projects in the future.
 - 📫 How to reach me: zebroa10@gmail.com
 - 😄 Pronouns: He/Him
